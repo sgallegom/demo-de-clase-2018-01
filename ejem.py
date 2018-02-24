@@ -1,4 +1,4 @@
 #ejercicio marge y pull
 
-for n in range(4)
+for n in range(9)
  print(n)
