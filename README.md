@@ -1,5 +1,5 @@
 # Demo de clase
-Esta es una demostración de la creación de un repositorio para principiantes en clase de Ciencia de los Datos, este archivo está modificado, para ver el original vaya a master
+Demostración de la creación de un repositorio
 
 Esta es una palabra en **negrita**
 
@@ -9,7 +9,7 @@ Este es un código en la misma línea `print("Desayuno")`
 
 ## Sección 1
 
-***Este es un texto***
+***Este es un texto*
 
 * item 1
 * item 2
